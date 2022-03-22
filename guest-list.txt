@@ -1,0 +1,3 @@
+1,Florian Neuhaus,attending
+2,Marcus Thuram,not attending
+3,Breel Donald Embolo,unknown,2022-10-11
